@@ -7,6 +7,8 @@ public class A {
 
   char x = 100;
   int dd=2222;
+  sliudl;
+  sdksaf;
   int dd=555;
 
   ssyso=100;
