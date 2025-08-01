@@ -9,6 +9,8 @@ public class A {
   int dd=2222;
   int dd=555;
 
+  ssyso=100;
+
   
 }
 
