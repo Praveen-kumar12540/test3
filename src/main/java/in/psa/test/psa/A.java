@@ -9,6 +9,7 @@ public class A {
   int dd=2222;
   sliudl;
   sdksaf;
+  hgkjg;
   int dd=555;
 
   ssyso=100;
