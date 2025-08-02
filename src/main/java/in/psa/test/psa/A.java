@@ -8,6 +8,7 @@ public class A {
   char x = 100;
   int dd=2222;
   int dd=555;
+  sonal;
 welcome ;
   ssyso=100;
 
